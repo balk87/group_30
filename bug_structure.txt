@@ -6,3 +6,4 @@ Structure of bug report
 4) Steps to reproduce
 5) Severity
 6) Priority
+7) Attachments
